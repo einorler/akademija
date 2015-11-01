@@ -1,5 +1,7 @@
 <?php
 
+// Atliko Mantas Marcinkevičius
+
 // KLASES
 
 class Bidder {
